@@ -1,0 +1,13 @@
+# Table of contents for your Jupyter Book
+format: jb-book
+root: intro
+
+chapters:
+- file: chapter1/introduction-to-chapter1
+  sections:
+    - file: chapter1/details-of-topic1
+    - file: chapter1/example-topic1
+- file: chapter2/introduction-to-chapter2
+  sections:
+    - file: chapter2/details-of-topic2
+    - file: chapter2/example-topic2
