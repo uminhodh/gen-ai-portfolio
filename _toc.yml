@@ -7,6 +7,7 @@ chapters:
   sections:
     - file: chapter1/details-of-topic1
     - file: chapter1/example-topic1
+    - file: chapter1/assessments
 - file: chapter2/introduction-to-chapter2
   sections:
     - file: chapter2/details-of-topic2
