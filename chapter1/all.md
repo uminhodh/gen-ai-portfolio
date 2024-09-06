@@ -21,7 +21,7 @@ The workshop provides a practical guide on using generative AI in education, imp
 
 **Active learning** An instructional approach that actively engages students in the **learning process**, fostering **autonomy**, and encouraging **connections** between **peers** and **staff**. This contributes to a sense of **community**, enhancing both **engagement** and **retention**.
 
-Instead of passively listening to a lecture, students in an **active learning environment** are involved in activities such as **discussions**, **problem-solving**, **group work**, **case studies**, **hands-on projects**, and other **interactive tasks**.
+Instead of passively listening to a lecture, students in an **active learning environment** are involved in activities such as **discussions**, **problem-solving**, **group work**, **case studies**, **hands-on projects**, and other **interactive taskss**.
 
 ***"The more students interact with other students and staff, the more likely they are to persist." (Crossling, Heagney & Thomas, 2009: 12).***
 
